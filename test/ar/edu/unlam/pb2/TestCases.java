@@ -27,7 +27,7 @@ public class TestCases {
 		assertNotEquals(SALDO_ESPERADO, tarjetaDeDebito.getSaldo(),0.001);
 	}
 	
-	/*@Test
+	@Test
 	public void queSePuedaCrearUnaTarjetaDeCredito() throws NumeroDeTarjetaInvalidoException{
 		// Preparaci�n 
 		final Long NUMERO_ESPERADO = 4246789813221201L;

@@ -26,9 +26,6 @@ public class TarjetaDeDebito implements Pagadora {
 				
 	}
 
-	
-	
-
 	private void setFechaDeVencimiento(String fechaDeVencimiento) {
 	this.fechaDeVencimiento= fechaDeVencimiento;
 		
